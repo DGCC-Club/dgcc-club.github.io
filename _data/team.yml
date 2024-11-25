@@ -21,3 +21,10 @@ team:
     role: "Member"
     image: "/images/team/tbd.jpg"
     bio: ""
+
+  # Student 
+  - name: "Parth Sirohi 2026"
+    year: "'26"
+    role: "Student Representative"
+    image: "/images/team/Parth.png"
+    bio: "I am the Student Representative of the club"
