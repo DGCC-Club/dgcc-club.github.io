@@ -35,8 +35,15 @@ team:
     role: "Student Representative"
     image: "/images/team/Parth.png"
     bio: "I am the Student Representative of the club"
-    
-  # Student
+
+# Student 
+  - name: "Jividha Kishor Parate"
+    year: "26"
+    role: "Member"
+    image: "/images/team/Jividha26.jpg"
+    bio: "Hello There! Nice to meet you!"
+
+ # Student
     name: "Princy jain"
     year: "'26'"
     role: "Member"
