@@ -50,7 +50,7 @@ team:
     bio: "Hello There! Nice to meet you!"
 
    # Student
-   - name: "Princy jain"
+  - name: "Princy jain"
     year: "'26'"
     role: "Member"
     image: "/images/team/princy2026.jpg"
