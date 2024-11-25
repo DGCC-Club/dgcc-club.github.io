@@ -21,3 +21,10 @@ team:
     role: "Lead Member"
     image: "/images/team/shounakb.png"
     bio: "Hello There! Nice to meet you!"
+
+  # Student
+  - name: "Shreyas N M"
+    year: "'22"
+    role: "Member"
+    image: "/images/team/shreyas.png"
+    bio: "Hello There! Nice to meet you!"
