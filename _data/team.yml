@@ -28,3 +28,10 @@ team:
     role: "Member"
     image: "/images/team/shreyas2026.png"
     bio: "Hello There! Nice to meet you!"
+    
+  # Student 
+  - name: "Parth Sirohi"
+    year: "26"
+    role: "Student Representative"
+    image: "/images/team/Parth.png"
+    bio: "I am the Student Representative of the club"
