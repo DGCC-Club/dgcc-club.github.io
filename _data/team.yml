@@ -28,3 +28,11 @@ team:
     role: "Member"
     image: "/images/team/shreyas2026.png"
     bio: "Hello There! Nice to meet you!"
+
+    
+  # Student
+    name: "Princy jain"
+    year: "'26'"
+    role: "Member"
+    image: "/images/team/princy2026.jpg"
+    bio: "Hello There! Nice to meet you!"
