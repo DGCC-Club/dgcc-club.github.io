@@ -15,7 +15,7 @@ team:
     role: "⭐️ Faculty representative ⭐️"
     image: "/images/team/hsd.jpg"
     bio: "Hridoy is the faculty representative of this club."
-  # Student
+
   - name: "Shounak Ravi Bhalerao"
     year: "'26"
     role: "Lead Member"
@@ -36,12 +36,13 @@ team:
     image: "/images/team/Parth.png"
     bio: "I am the Student Representative of the club"
 
-# Student 
+  # Student 
   - name: "Jividha Kishor Parate"
     year: "26"
     role: "Member"
     image: "/images/team/Jividha26.jpg"
     bio: "Hello There! Nice to meet you!"
+  
   # Student 
   - name: "Krinali Shah"
     year: "26"
@@ -55,3 +56,10 @@ team:
     role: "Member"
     image: "/images/team/princy2026.jpg"
     bio: "Hello There! Nice to meet you!"
+   
+   #Student 
+  - name: "Rajvirsinh Rathod"
+    year: "26"
+    role: "Member"
+    image: "/images/team/Rajvir_2026.png"
+    bio: "A boy who is easy to say HELLO but difficult to say GOODBYE!"
