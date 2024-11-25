@@ -43,3 +43,11 @@ team:
     image: "/images/team/Jividha26.jpg"
     bio: "Hello There! Nice to meet you!"
 
+
+# Student 
+  - name: "Krinali Shah"
+    year: "26"
+    role: "Member"
+    image: "/images/team/Krinali_Shah.heic"
+    bio: "Hello There! Nice to meet you!"
+
