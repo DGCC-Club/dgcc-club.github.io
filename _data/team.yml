@@ -63,3 +63,10 @@ team:
     role: "Member"
     image: "/images/team/Rajvir_2026.png"
     bio: "A boy who is easy to say HELLO but difficult to say GOODBYE!"
+
+    #Student 
+    Name: "Satya Vaibhav"
+    year: "26"
+    role: "Member"
+    image: "/images/team/vaibhav2026.webp"
+    bio: "Stay Anonymous in the Web!!"
