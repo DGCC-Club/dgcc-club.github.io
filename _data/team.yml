@@ -70,3 +70,10 @@ team:
     role: "Member"
     image: "/images/team/vaibhav2026.webp"
     bio: "Stay Anonymous in the Web!!"
+    
+    #Student 
+  - name: "Khushi Patel"
+    year: "26"
+    role: "Member"
+    image: "/images/team/khushi_Photo_2026.jpg"
+    bio: "Hello There! Nice to meet you!"
